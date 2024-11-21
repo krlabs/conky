@@ -54,6 +54,10 @@ Feel free to edit the configuration files to match your preferences:
 
 Contributions are welcome! If you have suggestions, bug fixes, or new features to add, feel free to open a pull request.
 
+## Additional Resources
+
+- [Markdown Guide](https://www.markdownguide.org/) — A comprehensive guide to using Markdown for formatting and creating clean, readable documentation.
+
 ## License
 
 This project is licensed under the MIT License.
