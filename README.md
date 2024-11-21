@@ -2,12 +2,11 @@
 
 A customizable and sleek configuration for [Conky](https://github.com/brndnmtthws/conky), the lightweight system monitor for Linux. This configuration offers a modern design, system resource monitoring, and easy customization.
 
-## Features
+## Features 🚀
 
 - **Minimalist Design**: Clean and visually appealing layout.
-- **Real-Time Monitoring**: CPU, RAM, Disk, Network, and GPU stats.
-- **Custom Widgets**: Weather, system uptime, and more.
-- **Responsive Configuration**: Adapts to different screen sizes and resolutions.
+- **Real-Time Monitoring**: CPU, RAM, Disks, Processes, Logs, Network stats.
+- **Custom Widgets**: Weather Forecast, Kernel version, OS release, System uptime, and more.
 - **Easy Customization**: Modify fonts, colors, and displayed modules to suit your preferences.
 
 ## Preview
