@@ -31,11 +31,10 @@ A customizable and sleek configuration for [Conky](https://github.com/brndnmtthw
    ```bash
    cd conky
    ```
-3. Copy all files to your Conky configuration directory:
+3. Create config directory and copy all files:
    ```bash
-   cp conky.conf /etc/conky
-   cp conky_network.conf /etc/conky
-   cp startup-conky.sh /etc/conky
+   sudo mkdir -p /etc/conky
+   cp * /etc/conky
    chmod +x /etc/conky/startup-conky.sh
    ```
 4. Start Conky with the new configuration:
