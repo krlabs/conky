@@ -56,7 +56,7 @@ Contributions are welcome! If you have suggestions, bug fixes, or new features t
 
 ## Additional Resources
 
-- [Markdown Guide](https://www.markdownguide.org/) — A comprehensive guide to using Markdown for formatting and creating clean, readable documentation.
+- [Conky Guide](https://conky.cc) — A comprehensive guide to using Conky for formatting and creating clean, readable configuration.
 
 ## License
 
