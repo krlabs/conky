@@ -9,6 +9,12 @@ A customizable and sleek configuration for [Conky](https://github.com/brndnmtthw
 - **Custom Widgets**: Weather Forecast, Kernel version, OS release, System uptime, and more.
 - **Easy Customization**: Modify fonts, colors, and displayed modules to suit your preferences.
 
+## Important Notes
+
+- Some commands in this configuration require `sudo` privileges to execute. Make sure you have the necessary permissions or run Conky with appropriate settings to avoid issues. For example:
+  - Commands like `dmidecode` for hardware information may need `sudo`.
+  - Ensure your user has access to required files and devices without unnecessary restrictions.
+
 ## Preview
 
 ![Preview of Conky Custom Configuration](https://github.com/krlabs/conky/blob/main/krlabs-conky-theme.png)
