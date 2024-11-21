@@ -1,6 +1,6 @@
 # KR. Laboratories Conky Custom Configuration
 
-A customizable and sleek configuration for [Conky](https://github.com/brndnmtthws/conky), the lightweight system monitor for Linux. This configuration offers a modern design, system resource monitoring, and easy customization.
+A customizable and sleek configuration for [Conky](https://github.com/brndnmtthws/conky), the lightweight system monitor for Linux. This configuration offers a modern design, system resource monitoring, and easy customization. Conky monitors can be seamlessly used on desktop like widgets, providing real-time system information directly on your display.
 
 ## Features 🚀
 
